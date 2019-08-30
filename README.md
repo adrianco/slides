@@ -1,7 +1,7 @@
 Presentation Slides
 ===================
 
-Slide decks in pdf, powerpoint and keynote - mostly since [slideshare](http://www.slideshare.net/adriancockcroft) doesn't support Apple Keynote
+Slide decks in pdf, powerpoint and keynote - mostly since [slideshare](http://www.slideshare.net/adriancockcroft) doesn't support Apple Keynote. Also, now that github is part of Microsoft, could we get Powerpoint supported directly? I'd like to manage changes and take pull requests for individual slides.
 
 Many of these decks have awsome animations that were created by http://silverfoxprod.com
 
